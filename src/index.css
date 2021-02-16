@@ -1,0 +1,55 @@
+.users {
+    background-color: rgb(197, 179, 17);
+    width: 100vw;
+    height: 100%;
+    padding: 20px
+}
+
+.title {
+    font-size: 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    color: snow;
+    background: rgb(107, 6, 133);
+}
+
+ul {
+    display: inline-flex;
+}
+
+li {
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    border: 1px inset rgb(117, 12, 117);
+    list-style: none;
+    border-radius: 5px;
+    color: whitesmoke;
+    text-shadow: 2px 2px 5px rgb(95, 6, 95);
+}
+
+.image {
+    padding: 2px;
+    width: 100px;
+    height: 100px;
+    border-radius: 52px;
+}
+
+.name {
+    font-size: 1.1rem;
+    text-align: center;
+    margin-top: -4px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    background: steelblue;
+}
+
+a {
+    text-decoration: none;
+    color: snow;
+    font-weight: lighter;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0 auto;
+}
