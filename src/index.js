@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Random from './Random'; 
+import App from './newhook/index'; 
 
 
 ReactDOM.render(
-<Random/>, document.getElementById('root')
+<App/>, document.getElementById('root')
 );
 
 

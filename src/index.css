@@ -25,8 +25,8 @@ li {
     border: 1px inset rgb(117, 12, 117);
     list-style: none;
     border-radius: 5px;
-    color: whitesmoke;
-    text-shadow: 2px 2px 5px rgb(95, 6, 95);
+    color: rgb(9, 120, 247);
+    text-shadow: 1px 1px 5px rgb(95, 6, 95);
 }
 
 .image {

@@ -11,8 +11,8 @@ const Hoses = (props) => {
         {props.office}
         {props.ladies}
         {props.children}
-   
-         </h1>
+  
+        </h1>
       </div>
     )
 
